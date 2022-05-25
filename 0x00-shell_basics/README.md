@@ -51,3 +51,14 @@ DESCRIPTION : deletes the directory /tmp/my_first_directory
 #### SCRIPT NAME : 10-back
 DESCRIPTION : change the working directory to the previous one
 
+---
+
+#### SCRIPT NAME : 11-lists
+DESCRIPTION : lists contents of the cwd, the parent directories and the /boot directory
+
+---
+
+#### SCRIPT NAME : 12-file_type
+DESCRIPTION : display the type of a file named iamafile 
+
+
