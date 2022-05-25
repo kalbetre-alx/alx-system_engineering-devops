@@ -51,3 +51,8 @@ DESCRIPTION : deletes the directory /tmp/my_first_directory
 #### SCRIPT NAME : 10-back
 DESCRIPTION : change the working directory to the previous one
 
+---
+
+#### SCRIPT NAME : 11-lists
+DESCRIPTION : list contents of the cwd, parent of cwd and /boot in long list format including hidden files
+
