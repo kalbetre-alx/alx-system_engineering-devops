@@ -11,4 +11,7 @@ DESCRIPTION : Displays the contents of the current directory
 ### SCRIPT NAME : 2-bring_me_home
 DESCRIPTION : Change working directory to user's home directory
 
+--- 
 
+### SCRIPT NAME : 3-listfiles
+DESCRIPTION : Displays the current directory contents in long format
