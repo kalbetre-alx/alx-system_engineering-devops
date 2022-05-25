@@ -41,3 +41,8 @@ DESCRIPTION : moves the file /tmp/betty to /tmp/my_first_directory
 #### SCRIPT NAME : 8-firstdelete
 DESCRIPTION : deletes the file /tmp/my_first_directory/betty
 
+---
+
+#### SCRIPT NAME : 9-firstdirdeletion
+DESCRIPTION : deletes the directory /tmp/my_first_directory
+
