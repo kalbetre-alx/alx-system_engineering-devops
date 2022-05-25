@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls -amp)$'\n'
+echo $(ls -amp)
