@@ -67,3 +67,9 @@ DESCRIPTION : display the type of a file named iamafile
 DESCRIPTION : creates a symbolic link to /bin/ls named __ls__ 
 
 
+---
+
+#### SCRIPT NAME : 14-copy_html
+DESCRIPTION : copies html files from the cwd to its parent iff are newer or it doesn't exist 
+
+
