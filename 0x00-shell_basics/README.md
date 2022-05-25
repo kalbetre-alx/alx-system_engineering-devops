@@ -20,4 +20,9 @@ DESCRIPTION : Displays the current directory contents in long format
 
 ### SCRIPT NAME : 4-listmorefiles
 DESCRIPTION : Display current directory contents, including hidden files
+ 
+---
+
+### SCRIPT NAME : 5-listfilesdigitonly
+DESCRIPTION : Display current directory contents with IDs and hidden files
 
