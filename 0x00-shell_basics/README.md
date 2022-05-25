@@ -15,3 +15,9 @@ DESCRIPTION : Change working directory to user's home directory
 
 ### SCRIPT NAME : 3-listfiles
 DESCRIPTION : Displays the current directory contents in long format
+
+--- 
+
+### SCRIPT NAME : 4-listmorefiles
+DESCRIPTION : Display current directory contents, including hidden files
+
