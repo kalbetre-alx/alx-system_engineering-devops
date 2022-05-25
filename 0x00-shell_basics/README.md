@@ -36,3 +36,8 @@ DESCRIPTION : Creates a directory named my_first_directory in /tmp
 #### SCRIPT NAME : 7-movethatfile
 DESCRIPTION : moves the file /tmp/betty to /tmp/my_first_directory
 
+---
+
+#### SCRIPT NAME : 8-firstdelete
+DESCRIPTION : deletes the file /tmp/my_first_directory/betty
+
