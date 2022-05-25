@@ -61,4 +61,9 @@ DESCRIPTION : lists contents of the cwd, the parent directories and the /boot di
 #### SCRIPT NAME : 12-file_type
 DESCRIPTION : display the type of a file named iamafile 
 
+---
+
+#### SCRIPT NAME : 13-symboic_link
+DESCRIPTION : creates a symbolic link to /bin/ls named __ls__ 
+
 
