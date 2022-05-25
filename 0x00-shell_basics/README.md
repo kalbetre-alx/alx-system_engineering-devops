@@ -31,3 +31,8 @@ DESCRIPTION : Display current directory contents with IDs and hidden files
 #### SCRIPT NAME : 6-firstdirectory
 DESCRIPTION : Creates a directory named my_first_directory in /tmp
 
+---
+
+#### SCRIPT NAME : 7-movethatfile
+DESCRIPTION : moves the file /tmp/betty to /tmp/my_first_directory
+
