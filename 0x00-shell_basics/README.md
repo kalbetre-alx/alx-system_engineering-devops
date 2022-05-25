@@ -46,3 +46,8 @@ DESCRIPTION : deletes the file /tmp/my_first_directory/betty
 #### SCRIPT NAME : 9-firstdirdeletion
 DESCRIPTION : deletes the directory /tmp/my_first_directory
 
+---
+
+#### SCRIPT NAME : 10-back
+DESCRIPTION : change the working directory to the previous one
+
