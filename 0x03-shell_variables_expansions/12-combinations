@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z}|awk '{sub("oo ", "")}1'|tr ' ' '\n'
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v -E 'oo'
